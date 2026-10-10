@@ -11,6 +11,7 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 - JS
 - JSON
 - Bash
+
 このくらいしかできません(？)
 
 ## 制作物
