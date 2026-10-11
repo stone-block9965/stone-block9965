@@ -15,7 +15,7 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 このくらいしかできません(？)
 
 ## 制作物
-- NoSlop Fast(低スペPotato民たちのModpack)
+- NoSlop Fast(低スペPotatoPC民たちのModpack)
 - Clear Rain(雨を消すJE用リソパ、結構低スペだと効果あります)
 - CPU / GPU ボトルネックチェッカー(名前の通り)
 - 色違い探し(この名前が合ってるのかは知らないけど名前の通り色が違うものをタップするやつ)
