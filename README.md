@@ -11,6 +11,8 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 - JS
 - JSON
 - Bash
+- Minecraft JE Command
+- Minecraft BE Command
 
 このくらいしかできません(？)
 
