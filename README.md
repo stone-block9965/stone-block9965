@@ -24,12 +24,14 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 - 色違い探し(この名前が合ってるのかは知らないけど名前の通り色が違うものをタップするやつ)
 
 ## 使用環境
-- メイン機
+
+メイン機
  - OS:CachyOS KDE Plasma
  - CPU:i5-12600KF
  - GPU:NVIDIA GeForce GTX 1080 FE
  - RAM:32GB DDR4
-- サブ機
+
+サブ機
  - OS:Lubuntu
  - CPU:i3-3110M
  - GPU:Intel HD Graphics 4000
