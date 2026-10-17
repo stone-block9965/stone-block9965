@@ -14,7 +14,8 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 - Minecraft JE Command
 - Minecraft BE Command
 
-このくらいしかできません(？)
+このくらいしかできません()
+Reactを習得したい(？)
 
 ## 制作物
 
@@ -39,7 +40,8 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 
 ## Links
 
-- Website: https://stone-block9965.pages.dev/
+- Website: https://stone-block9965.pages.dev
+- NoSlop Fast HP: https://stone-block9965.pages.dev/modpack
 - GitHub: https://github.com/stone-block9965
 - Modrinth: https://modrinth.com/user/stoneblock9965
 - CurseForge: https://www.curseforge.com/members/stone_block9965/projects
