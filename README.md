@@ -31,6 +31,8 @@ Reactを習得したい(？)
  - CPU:i5-12600KF
  - GPU:NVIDIA GeForce GTX 1080 FE
  - RAM:32GB DDR4
+ - SSD:500GB NVMe
+ - HDD:3TB 5200RPM WD Blue
 
 サブ機
  - OS:Lubuntu
