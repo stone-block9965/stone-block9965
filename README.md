@@ -14,7 +14,7 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 - Minecraft JE Command
 - Minecraft BE Command
 
-このくらいしかできません()
+このくらいしかできません()  
 Reactを習得したい(？)
 
 ## 制作物
