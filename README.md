@@ -21,6 +21,7 @@ Reactを習得したい(？)
 
 - NoSlop Fast(主に低スペPotatoPC民たち向けのModpack)
 - Clear Rain(雨を消すJE用リソパ、低スペだと結構FPSに効果あります)
+- Clear Vision Pack(JE & BE)
 - CPU / GPU ボトルネックチェッカー(名前の通り)
 - 色違い探し(この名前が合ってるのかは知らないけど名前の通り色が違うものをタップするやつ)
 - [Simple Timer Extension(Chrome & Firefox)](https://github.com/stone-block9965/simple-timer)
