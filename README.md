@@ -29,18 +29,16 @@ Reactを習得したい(？)
 
 ## 制作物のダウンロード数 (2026年10月26日17:00時点)
 
-**合計: 2,498 DL**
-
 ### 配布先別
 
 | 制作物 | 配布先 | ダウンロード数 |
 |:--|:--|--:|
-| Clear Vision Pack | — | 1,159 |
+| Clear Vision Pack | CurseForge | 1,159 |
 | Clear Vision Pack JE | CurseForge | 291 |
 | Clear Vision Pack JE | Modrinth (審査中) | 4 |
 | Clear Rain | CurseForge | 232 |
 | Clear Rain | Modrinth | 479 |
-| NoSlop Fast | — | 331 |
+| NoSlop Fast | Modrinth | 331 |
 | Simple Timer Extension | GitHub (curl統計) | 2 |
 | **合計** | | **2,498** |
 
