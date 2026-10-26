@@ -26,6 +26,45 @@ Reactを習得したい(？)
 - 色違い探し(この名前が合ってるのかは知らないけど名前の通り色が違うものをタップするやつ)
 - [Simple Timer Extension(Chrome & Firefox)](https://github.com/stone-block9965/simple-timer)
 
+
+## 制作物のダウンロード数 (2026年10月26日17:00時点)
+
+**合計: 2,498 DL**
+
+### 配布先別
+
+| 制作物 | 配布先 | ダウンロード数 |
+|:--|:--|--:|
+| Clear Vision Pack | — | 1,159 |
+| Clear Vision Pack JE | CurseForge | 291 |
+| Clear Vision Pack JE | Modrinth (審査中) | 4 |
+| Clear Rain | CurseForge | 232 |
+| Clear Rain | Modrinth | 479 |
+| NoSlop Fast | — | 331 |
+| Simple Timer Extension | GitHub (curl統計) | 2 |
+| **合計** | | **2,498** |
+
+### 作品別合計
+
+| 制作物 | ダウンロード数 |
+|:--|--:|
+| Clear Vision Pack | 1,159 |
+| Clear Vision Pack JE | 295 |
+| Clear Rain | 711 |
+| NoSlop Fast | 331 |
+| Simple Timer Extension | 2 |
+| **総合計** | **2,498** |
+
+![ダウンロード数](production-downloads.webp)
+
+### 前回記録との比較
+
+| 記録日時 | 合計ダウンロード数 |
+|:--|--:|
+| 2026年10月12日12:00 | 1,758 |
+| 2026年10月26日17:00 | 2,498 |
+| **増加数** | **+740 (+42.1%)** |
+
 ## 使用環境
 
 メイン機
