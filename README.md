@@ -8,8 +8,10 @@ Minecraft関連のものを作ったり、Linuxで遊んだり、Webサイトを
 
 - HTML
 - CSS
+- SCSS
 - JS
 - JSON
+- TS
 - Bash
 - Minecraft JE Command
 - Minecraft BE Command
