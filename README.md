@@ -55,8 +55,6 @@ Reactを習得したい(？)
 | Simple Timer Extension | 2 |
 | **総合計** | **2,498** |
 
-![ダウンロード数](production-downloads.webp)
-
 ### 前回記録との比較
 
 | 記録日時 | 合計ダウンロード数 |
